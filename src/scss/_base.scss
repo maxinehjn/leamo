@@ -2,9 +2,6 @@
 // css variables
 // ==================================== */
 
-:root {
-}
-
 /* ====================================
 // reset rules
 // ==================================== */
@@ -37,6 +34,26 @@ video {
   max-inline-size: 100%;
   block-size: auto;
   vertical-align: middle;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+.change {
+  font-family: "superior-title", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+.position {
+  text-align: right;
 }
 
 /* ====================================
